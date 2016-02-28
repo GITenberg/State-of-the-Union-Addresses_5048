@@ -1,0 +1,26 @@
+_repo: State-of-the-Union-Addresses_5048
+creator:
+  author:
+    agent_name: Clinton, Bill
+    aliases:
+    - Clinton, William J. (William Jefferson)
+    - Blythe, William Jefferson
+    birthdate: 1946
+    gutenberg_agent_id: '3565'
+    url: http://www.gutenberg.org/2009/agents/3565
+    wikipedia: http://en.wikipedia.org/wiki/Bill_Clinton
+description: ''
+gutenberg_issued: '2004-02-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '5048'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Presidents -- United States -- Messages'
+- !lcc 'J'
+- !lcsh 'United States -- Politics and government -- Sources'
+title: State of the Union Addresses
+url: http://www.gutenberg.org/ebooks/5048
